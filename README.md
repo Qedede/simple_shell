@@ -1,1 +1,1 @@
-All about simple shell
+All about C - simple shell
